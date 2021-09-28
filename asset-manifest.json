@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bookipedia/static/css/main.b06e0000.chunk.css",
+    "main.js": "/bookipedia/static/js/main.52ad30a9.chunk.js",
+    "main.js.map": "/bookipedia/static/js/main.52ad30a9.chunk.js.map",
+    "runtime-main.js": "/bookipedia/static/js/runtime-main.e6409d09.js",
+    "runtime-main.js.map": "/bookipedia/static/js/runtime-main.e6409d09.js.map",
+    "static/css/2.68fdb14c.chunk.css": "/bookipedia/static/css/2.68fdb14c.chunk.css",
+    "static/js/2.265af014.chunk.js": "/bookipedia/static/js/2.265af014.chunk.js",
+    "static/js/2.265af014.chunk.js.map": "/bookipedia/static/js/2.265af014.chunk.js.map",
+    "index.html": "/bookipedia/index.html",
+    "static/css/2.68fdb14c.chunk.css.map": "/bookipedia/static/css/2.68fdb14c.chunk.css.map",
+    "static/css/main.b06e0000.chunk.css.map": "/bookipedia/static/css/main.b06e0000.chunk.css.map",
+    "static/js/2.265af014.chunk.js.LICENSE.txt": "/bookipedia/static/js/2.265af014.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6409d09.js",
+    "static/css/2.68fdb14c.chunk.css",
+    "static/js/2.265af014.chunk.js",
+    "static/css/main.b06e0000.chunk.css",
+    "static/js/main.52ad30a9.chunk.js"
+  ]
+}
